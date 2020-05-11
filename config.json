@@ -1,0 +1,13 @@
+{
+    "stocks":[
+        {
+            "name":"TATAMOTORS.NS"
+        },
+        {
+            "name":"SBIN.NS"
+        }
+    ],
+    "start_date":"2020-05-07",
+    "end_date":"2020-05-08",
+    "ticker_duration":"5m"
+}
